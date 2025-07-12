@@ -14,7 +14,7 @@ const Header = () => {
           <div className="flex items-center space-x-4">
             <div className="bg-white/5 p-2 rounded-xl">
               <img 
-                src="/lovable-uploads/1840b51e-084a-40d0-abba-96d1ebdf3e34.png" 
+                src="/lovable-uploads/a88a3ae6-0ff2-4a29-a0fa-88a9a9951ff1.png" 
                 alt="ESTHIMA Logo" 
                 className="h-16 w-auto transition-all duration-300 hover:scale-105"
               />

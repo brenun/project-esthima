@@ -8,9 +8,9 @@ const Footer = () => {
           <div className="space-y-6">
             <div className="bg-white/10 p-4 rounded-xl w-fit">
               <img 
-                src="/lovable-uploads/1840b51e-084a-40d0-abba-96d1ebdf3e34.png" 
+                src="/lovable-uploads/a88a3ae6-0ff2-4a29-a0fa-88a9a9951ff1.png" 
                 alt="ESTHIMA Logo" 
-                className="h-16 w-auto brightness-0 invert"
+                className="h-16 w-auto"
               />
             </div>
             <p className="text-sm opacity-90 max-w-sm">
