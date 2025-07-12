@@ -5,13 +5,15 @@ const Footer = () => {
     <footer className="bg-teal-dark text-primary-foreground">
       <div className="container mx-auto px-4 py-12">
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-          <div className="space-y-4">
-            <img 
-              src="/lovable-uploads/1840b51e-084a-40d0-abba-96d1ebdf3e34.png" 
-              alt="ESTHIMA Logo" 
-              className="h-12 w-auto brightness-0 invert"
-            />
-            <p className="text-sm opacity-90">
+          <div className="space-y-6">
+            <div className="bg-white/10 p-4 rounded-xl w-fit">
+              <img 
+                src="/lovable-uploads/1840b51e-084a-40d0-abba-96d1ebdf3e34.png" 
+                alt="ESTHIMA Logo" 
+                className="h-16 w-auto brightness-0 invert"
+              />
+            </div>
+            <p className="text-sm opacity-90 max-w-sm">
               Distribuidora especializada em produtos médicos hospitalares de alta qualidade, 
               com foco em próteses de silicone para todo o Brasil.
             </p>

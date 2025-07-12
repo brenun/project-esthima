@@ -12,11 +12,13 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-4">
-            <img 
-              src="/lovable-uploads/1840b51e-084a-40d0-abba-96d1ebdf3e34.png" 
-              alt="ESTHIMA Logo" 
-              className="h-10 w-auto"
-            />
+            <div className="bg-white/5 p-2 rounded-xl">
+              <img 
+                src="/lovable-uploads/1840b51e-084a-40d0-abba-96d1ebdf3e34.png" 
+                alt="ESTHIMA Logo" 
+                className="h-16 w-auto transition-all duration-300 hover:scale-105"
+              />
+            </div>
           </div>
           
           <nav className="hidden md:flex items-center space-x-8">
