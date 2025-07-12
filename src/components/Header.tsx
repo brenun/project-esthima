@@ -51,7 +51,7 @@ const Header = () => {
           <div className="hidden md:flex items-center space-x-4">
             <div className="flex items-center space-x-2 text-sm text-muted-foreground">
               <Phone className="h-4 w-4" />
-              <span>(11) 9999-9999</span>
+              <span>(85) 3099-1016</span>
             </div>
             <Button 
               variant="hero" 

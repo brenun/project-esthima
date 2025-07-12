@@ -14,8 +14,8 @@ const Hero = () => {
           <div className="space-y-8">
             <div className="space-y-4">
               <h1 className="text-4xl md:text-6xl font-bold text-foreground leading-tight">
-                Próteses de
-                <span className="text-primary block">Silicone de Qualidade</span>
+                Excelência em
+                <span className="text-primary block">Próteses de Silicone</span>
               </h1>
               <p className="text-lg text-muted-foreground max-w-lg">
                 Distribuímos produtos médicos hospitalares de alta qualidade, 

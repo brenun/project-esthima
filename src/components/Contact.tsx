@@ -11,25 +11,25 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Telefone",
-      details: ["(11) 9999-9999", "(11) 8888-8888"],
+      details: ["CE - (85) 99756-2394", "MA - (98) 98433-1991", "PI - (86) 2140-9437"],
       color: "text-primary"
     },
     {
       icon: Mail,
       title: "E-mail",
-      details: ["contato@esthima.com.br", "vendas@esthima.com.br"],
+      details: ["claudiane@esthima.com.br", "caio@esthima.com.br"],
       color: "text-accent"
     },
     {
       icon: MapPin,
       title: "Endereço",
-      details: ["Rua das Flores, 123", "São Paulo - SP, 01234-567"],
+      details: ["Av Washington Soares, 855, Salas 311 e 309 - Edson Queiroz", "Fortaleza - CE, 60811-341"],
       color: "text-primary"
     },
     {
       icon: Clock,
       title: "Horário",
-      details: ["Segunda à Sexta: 8h às 18h", "Sábado: 8h às 12h"],
+      details: ["Segunda à Sexta: 8h às 18h"],
       color: "text-accent"
     }
   ];
@@ -93,7 +93,7 @@ const Contact = () => {
               <div className="grid grid-cols-2 gap-4">
                 <div className="space-y-2">
                   <Label htmlFor="phone">Telefone</Label>
-                  <Input id="phone" placeholder="(11) 99999-9999" />
+                  <Input id="phone" placeholder="(85) 99999-9999" />
                 </div>
                 <div className="space-y-2">
                   <Label htmlFor="company">Empresa</Label>
@@ -132,8 +132,8 @@ const Contact = () => {
                   <div className="text-center space-y-2">
                     <MapPin className="h-12 w-12 text-primary mx-auto" />
                     <p className="text-lg font-semibold text-foreground">Nosso Escritório</p>
-                    <p className="text-muted-foreground">Rua das Flores, 123</p>
-                    <p className="text-muted-foreground">São Paulo - SP, 01234-567</p>
+                    <p className="text-muted-foreground">Av Washington Soares, 855, Salas 311 e 309 - Edson Queiroz</p>
+                    <p className="text-muted-foreground">Fortaleza - CE, 60811-341</p>
                   </div>
                 </div>
               </CardContent>

@@ -99,7 +99,7 @@ const Products = () => {
                     <Shield className="h-6 w-6 text-primary" />
                   </div>
                   <h4 className="font-semibold">Segurança Garantida</h4>
-                  <p className="text-sm text-muted-foreground">Certificações internacionais rigorosas</p>
+                  <p className="text-sm text-muted-foreground">Certificações internacionais e Garantia Vitalícia</p>
                 </div>
                 <div className="space-y-2">
                   <div className="bg-accent/10 rounded-full p-3 w-12 h-12 flex items-center justify-center">

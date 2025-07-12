@@ -24,17 +24,17 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <Phone className="h-4 w-4" />
-                <span className="text-sm">(11) 9999-9999</span>
+                <span className="text-sm">(85) 3099-1016</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-4 w-4" />
-                <span className="text-sm">contato@esthima.com.br</span>
+                <span className="text-sm">claudiane@esthima.com.br</span>
               </div>
               <div className="flex items-start space-x-3">
                 <MapPin className="h-4 w-4 mt-0.5" />
                 <div className="text-sm">
-                  <p>Rua das Flores, 123</p>
-                  <p>São Paulo - SP, 01234-567</p>
+                  <p>Av Washington Soares, 855, Salas 311 e 309 - Edson Queiroz</p>
+                  <p>Fortaleza - CE, 60811-341</p>
                 </div>
               </div>
             </div>
@@ -47,7 +47,7 @@ const Footer = () => {
                 <Clock className="h-4 w-4" />
                 <div className="text-sm">
                   <p>Segunda à Sexta: 8h às 18h</p>
-                  <p>Sábado: 8h às 12h</p>
+                  <p>Sábado: Fechado</p>
                   <p>Domingo: Fechado</p>
                 </div>
               </div>

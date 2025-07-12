@@ -5,7 +5,7 @@ import { Users, Award, Globe, Clock } from "lucide-react";
 const About = () => {
   const stats = [
     { icon: Users, number: "1000+", label: "Clientes Atendidos" },
-    { icon: Award, number: "15+", label: "Anos de Experiência" },
+    { icon: Award, number: "7+", label: "Anos de Experiência" },
     { icon: Globe, number: "50+", label: "Cidades Atendidas" },
     { icon: Clock, number: "24/7", label: "Suporte Disponível" }
   ];
